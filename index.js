@@ -56,4 +56,4 @@ client.on('guildMemberUpdate', async (oldMember, newMember) => {
 
 });
 
-client.login(process.env.MTUwMzQzNDU4MTU2NTc3MTgyNw.Gx9jLZ.a9vD77YjqivgpwltwfGuiNabhpnLEP4dOspbLw);
+client.login(process.env.TOKEN);
